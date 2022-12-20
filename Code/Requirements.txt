@@ -1,1 +1,10 @@
 
+
+Numpy
+Matplotlib
+pandas
+OS
+Pickle
+CV2
+Tensorflow
+sklearn
