@@ -1,4 +1,4 @@
-# Facial-Keypoint-Detection
+# 😃 Facial-Keypoint-Detection
  ---
  
  ## Project Overview
@@ -17,4 +17,9 @@
  
  
  <img src="https://user-images.githubusercontent.com/63426759/208760292-590fac85-2652-449e-a587-6e655a9672fb.png" width="500" height="300" >
+ 
+ ## Accuracies Graph
+  - The accuracy graph of model is shown below:
+  
+  <img src="https://user-images.githubusercontent.com/63426759/208762044-51ce2ec2-9246-4c77-8d64-87be739e7da0.png" width="500" height="300" >
  
